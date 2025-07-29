@@ -47,55 +47,8 @@ This project is a **Travel Recommendation System** built using **Flask**, **Mach
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-If you don’t have a `requirements.txt`, install manually:
-```bash
-pip install flask pandas scikit-learn
-```
-
-### 3. Run the app
-```bash
-python app.py
-```
-
-Visit `http://127.0.0.1:5000` in your browser.
 
 ---
 
-## 🎯 How It Works
 
-- Users are matched to similar users based on historical travel patterns.
-- A recommendation engine filters and ranks destinations using collaborative filtering.
-- Trained model and encoders are loaded via pickle for quick runtime predictions.
-
----
-
-## 📷 Screenshots
-
-> Add UI screenshots here if you'd like! (index.html & recommendation.html pages)
-
----
-
-## 🙋‍♂️ Author
-
-**Ritish Sharma**  
-3rd Year B.Tech IT, NIT Srinagar  
-📧 [Add your email or LinkedIn here]
-
----
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
